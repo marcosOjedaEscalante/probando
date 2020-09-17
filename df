@@ -1,0 +1,105 @@
+[33mcommit ff58bd0477ab235150cd29fbdcb5547120e472bf[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: MarcosOE <marcos.ojeda.escalante@gmail.com>
+Date:   Thu Sep 17 17:02:03 2020 -0300
+
+    "decimo primero commit en master"
+
+[33mcommit ab52169f36fed3910f07ed1d5f3b81433e5016f4[m
+Merge: b1b6b79 520323b
+Author: MarcosOE <marcos.ojeda.escalante@gmail.com>
+Date:   Thu Sep 17 17:01:25 2020 -0300
+
+    Merge branch 'unire' into master
+
+[33mcommit b1b6b79d4fb0e9806be7107d890cbada2425073e[m
+Merge: 4843034 8ddaa84
+Author: MarcosOE <marcos.ojeda.escalante@gmail.com>
+Date:   Thu Sep 17 16:58:07 2020 -0300
+
+    mi decimo commmit en master
+
+[33mcommit 8ddaa84de6faebdd79f288570d45c01c60030f5c[m[33m ([m[1;32mjugando[m[33m)[m
+Author: MarcosOE <marcos.ojeda.escalante@gmail.com>
+Date:   Thu Sep 17 16:56:52 2020 -0300
+
+    mi noveno commit en jugando
+
+[33mcommit 520323b911e0a46071d2522f39a2b9247f919b27[m[33m ([m[1;32munire[m[33m)[m
+Author: MarcosOE <marcos.ojeda.escalante@gmail.com>
+Date:   Thu Sep 17 16:53:12 2020 -0300
+
+    mi noveno commit en unire
+
+[33mcommit 484303400445b17888d53a841cfcaab78a171dca[m
+Author: MarcosOE <marcos.ojeda.escalante@gmail.com>
+Date:   Thu Sep 17 16:51:59 2020 -0300
+
+    mi noveno commit en master
+
+[33mcommit ac3d7155326135e692b600967a4f113b55509173[m
+Merge: 461390d 6bc54b2
+Author: MarcosOE <marcos.ojeda.escalante@gmail.com>
+Date:   Thu Sep 17 16:51:24 2020 -0300
+
+    mi octavo commit en master
+
+[33mcommit 6bc54b29dfcfe2a752f171a1a4526322e0b368cd[m
+Author: MarcosOE <marcos.ojeda.escalante@gmail.com>
+Date:   Thu Sep 17 16:48:15 2020 -0300
+
+    mi septimo commit en unire
+
+[33mcommit 461390df7fa6c6be14b34f1670142ca442a72c7a[m
+Author: MarcosOE <marcos.ojeda.escalante@gmail.com>
+Date:   Thu Sep 17 16:46:47 2020 -0300
+
+    mi septimo commit en master
+
+[33mcommit 8810173ff522ae9ab37de267eb9316e3d14aaadc[m
+Author: MarcosOE <marcos.ojeda.escalante@gmail.com>
+Date:   Thu Sep 17 16:43:49 2020 -0300
+
+    mi sexto commit en master
+
+[33mcommit 273dd13a21032ee4a0a8345283ece5d8810aa2ba[m
+Merge: 923ccfb e34c110
+Author: MarcosOE <marcos.ojeda.escalante@gmail.com>
+Date:   Thu Sep 17 16:43:18 2020 -0300
+
+    mi quinto commit en master
+
+[33mcommit 923ccfb9406a1e764eacb3eac97e7899395ada03[m
+Author: MarcosOE <marcos.ojeda.escalante@gmail.com>
+Date:   Thu Sep 17 16:36:02 2020 -0300
+
+    mi cuarto commit en master
+
+[33mcommit e34c110442bb098a1a7a1909604e06db8bfb25ad[m
+Author: MarcosOE <marcos.ojeda.escalante@gmail.com>
+Date:   Thu Sep 17 16:33:22 2020 -0300
+
+    mi cuarto commit en unire
+
+[33mcommit a57b50db68ee83f98da22abda8ecff3923eb9c9e[m
+Author: MarcosOE <marcos.ojeda.escalante@gmail.com>
+Date:   Thu Sep 17 16:30:32 2020 -0300
+
+    mi tercer commit master
+
+[33mcommit 8bbdbe31ed7ae7cae48ac1aed39699d082e5cb7d[m
+Author: MarcosOE <marcos.ojeda.escalante@gmail.com>
+Date:   Thu Sep 17 16:29:15 2020 -0300
+
+    mi tercer commit jugando
+
+[33mcommit e7b5a110a3717b1c1e884f955d0e4b90633b32a1[m
+Author: MarcosOE <marcos.ojeda.escalante@gmail.com>
+Date:   Thu Sep 17 16:27:11 2020 -0300
+
+    mi segundo commit
+
+[33mcommit d5f34069bf1a8035eb033cee5f93aed4191db198[m
+Author: MarcosOE <marcos.ojeda.escalante@gmail.com>
+Date:   Thu Sep 17 16:26:29 2020 -0300
+
+    mi primer commit
